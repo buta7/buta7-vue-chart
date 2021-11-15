@@ -25,4 +25,3 @@ yarn serve
 ## Link
 
 * [Chart\.jsでグラフを更新するサンプル（ボタンをクリック） \- Qiita](https://qiita.com/saka212/items/5714fa68deb44a185ec3)
-* [week](https://www.chartjs.org/docs/2.9.4/axes/cartesian/time.html)
