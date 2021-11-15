@@ -1,5 +1,9 @@
 # saka212-redraw-sample
 
+**NOTE**
+
+Don't work in production environment becase of CORS.
+
 ## Install
 
 ```shell
@@ -20,6 +24,12 @@ yarn add vue-loaders
 
 ```shell
 yarn serve
+```
+
+## Build
+
+```shell
+yarn build
 ```
 
 ## Link
